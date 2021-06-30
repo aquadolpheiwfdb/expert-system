@@ -1,0 +1,37 @@
+.body_backgorund {
+	background-image: url("speach.jpeg");
+	background-position: center;
+	background-size: cover;
+}
+
+
+#logout_btn{
+    background-color:firebrick;
+    font-size:30px;
+    color:whitesmoke;
+    border-radius:20px;
+    margin-right:1200px;
+    margin-bottom:100px;
+}
+
+#room_name{
+    font-size:20px;
+    background-color:chartreuse;
+}
+
+#addRoom{
+    width:160px;
+    background-color:darkseagreen;
+    height:20px;
+    font-size:20px;
+    color:darkslateblue;
+    height:50px;
+    font-weight:900;
+    border-radius:15px;
+
+}
+
+#welcome{
+    border-radius:50%;
+
+}
